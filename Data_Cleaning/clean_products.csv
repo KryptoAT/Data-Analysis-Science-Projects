@@ -1,0 +1,12 @@
+Product_ID,Product_Name,Category,Price,Quantity,Rating,Release_Date,Weight_kg,Screen_Size_cm,Manufacturer,In_Stock,Screen_Size_inch,Weight_lbs
+101,Galaxy S21,Smartphone,799.0,10,4.5,2021-01-29,0.171,15.2,Samsung,Y,5.984,0.377
+102,iPhone 12,Smartphone,749.0,5,4.7,2020-12-10,0.164,15.4,Apple,Y,6.063,0.362
+103,Pixel 5,Smartphone,699.0,0,4.6,2020-10-15,0.151,15.0,Google,Y,5.906,0.333
+104,ThinkPad X1,Laptop,1399.0,3,4.8,2021-03-01,1.13,35.6,Lenovo,Y,14.016,2.491
+105,HP Laptop,Laptop,999.0,7,4.3,2020-08-20,1.25,39.6,HP,N,15.591,2.756
+106,MacBook Pro,Laptop,2399.0,2,4.5,2021-05-21,1.4,34.0,Apple,N,13.386,3.086
+107,Surface Pro,Tablet,899.0,0,4.4,2021-02-02,0.77,31.2,Microsoft,N,12.283,1.698
+108,iPad Air,Tablet,599.0,12,4.6,2021-03-18,0.458,27.9,Apple,Y,10.984,1.01
+109,Fire HD 10,Tablet,149.0,25,3.9,2020-09-30,0.465,25.7,Amazon,Y,10.118,1.025
+110,Galaxy Tab S7,Tablet,649.0,8,4.5,2021-01-01,0.498,27.8,Samsung,Y,10.945,1.098
+111,Inspiron 15,Laptop,749.0,4,4.1,2021-06-15,2.1,39.6,Dell,N,15.591,4.63
